@@ -5,6 +5,7 @@
 ### **PENGERTIAN OOP**
 - **object-oriented-programing/OOP** adalah paradigma pemrograman berdasarkan konsep "objek", yang dapat berisi data, dalam bentuk field atau dikenal juga sebagai atribut; serta kode, dalam bentuk fungsi/prosedur atau dikenal juga sebagai method.
 <br>
+
 ```sh
 print('\033[1m','\33[34m')
 print("=" * 65)
@@ -88,6 +89,7 @@ while True:
         exit()
     else:
         print("\33[31mPILIHAN MENU TIDAK ADA!")
+
 ```
 
 
